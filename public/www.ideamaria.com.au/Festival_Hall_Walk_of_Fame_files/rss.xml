@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Festival Hall Walk of Fame</title>
+    <link>http://www.ideamaria.com.au/www.ideamaria.com.au/Festival_Hall_Walk_of_Fame.html</link>
+    <description>This ‘Art Built In’ project is located in the foyer of Festival Towers apartments, Brisbane, and was commissioned by the QPAC Museum in association with Cox-Rayner Architects and Devine Corporation. The work incorporates salvaged timber seat backs which were kept after the demolition of Festival Hall with the intention of seeing them reused in an art/design work which would commemorate the cultural history of the site.  The combination of boards from the bleachers with backlit images of tickets, concert and boxing event images at once celebrate, remind and inform.
+
+Design: Maria Cleary
+Graphic design: MA Plus Design
+Construction: Planet Productions
+
+Photos, Maria Cleary 2005
+</description>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/Festival_Hall_Walk_of_Fame.html#0</link>
+      <guid isPermaLink="false">0c0f25b1-61dd-46c7-b966-c6d54d18f637</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/Festival_Hall_Walk_of_Fame_files/Media/100_1201/100_1201.jpg" length="115915" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/Festival_Hall_Walk_of_Fame_files/Media/100_1201/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/Festival_Hall_Walk_of_Fame_files/Media/100_1201/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/Festival_Hall_Walk_of_Fame.html#1</link>
+      <guid isPermaLink="false">67105dff-cd56-437b-b75b-a60d53baa7a3</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/Festival_Hall_Walk_of_Fame_files/Media/100_2664/100_2664.jpg" length="132566" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/Festival_Hall_Walk_of_Fame_files/Media/100_2664/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/Festival_Hall_Walk_of_Fame_files/Media/100_2664/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/Festival_Hall_Walk_of_Fame.html#2</link>
+      <guid isPermaLink="false">6d1a1025-1023-435a-9b82-3bfef84ed569</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/Festival_Hall_Walk_of_Fame_files/Media/100_2665/100_2665.jpg" length="119770" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/Festival_Hall_Walk_of_Fame_files/Media/100_2665/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/Festival_Hall_Walk_of_Fame_files/Media/100_2665/micro.jpg</iweb:micro>
+    </item>
+  </channel>
+</rss>

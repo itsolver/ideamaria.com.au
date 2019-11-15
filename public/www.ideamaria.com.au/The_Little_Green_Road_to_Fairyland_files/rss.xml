@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>The Little Green Road to Fairyland</title>
+    <link>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Little_Green_Road_to_Fairyland.html</link>
+    <description>The Little Green Road to Fairyland is a children’s story, first published in 1922. In 2011 it  was brought to life as a dance theatre work choreographed by Rosetta Cook, with a newly commissioned score by Elena Kats-Chernin and perfomed as the centrepiece event for the Queensland Music Festival. 
+
+Concept design: Jonathan Oxlade
+Design realisation and design management (set and costume): Maria Cleary
+Wardrobe: Gayle MacGregor
+Scenic art: Maria Cleary
+http://vimeo.com/28339370
+
+Photos, Sean Young 2011</description>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Little_Green_Road_to_Fairyland.html#0</link>
+      <guid isPermaLink="false">bfb098a3-e153-4373-b9e1-d96831f873e1</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/The_Little_Green_Road_to_Fairyland_files/Media/227738-little-green-road-to-fairyland/227738-little-green-road-to-fairyland.jpg" length="63591" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Little_Green_Road_to_Fairyland_files/Media/227738-little-green-road-to-fairyland/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Little_Green_Road_to_Fairyland_files/Media/227738-little-green-road-to-fairyland/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Little_Green_Road_to_Fairyland.html#1</link>
+      <guid isPermaLink="false">0d597c49-a300-4635-b7a8-bfff440ceb99</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/The_Little_Green_Road_to_Fairyland_files/Media/Little%20green%20road%20to%20Fairyland%20_MG_8213-400x267/Little%20green%20road%20to%20Fairyland%20_MG_8213-400x267.jpg" length="14533" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Little_Green_Road_to_Fairyland_files/Media/Little%20green%20road%20to%20Fairyland%20_MG_8213-400x267/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Little_Green_Road_to_Fairyland_files/Media/Little%20green%20road%20to%20Fairyland%20_MG_8213-400x267/micro.jpg</iweb:micro>
+    </item>
+  </channel>
+</rss>

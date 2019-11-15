@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Queensland Firsts</title>
+    <link>http://www.ideamaria.com.au/Maria_Cleary_Design/Queensland_Firsts.html</link>
+    <description>This travelling exhibition was a Q150 project that aimed to raise the profile of the Queensland State Archives, transforming a high volume of historical content into a portable, approachable contemporary exhibition. Queensland Firsts appealed to visitors with an interest in political, cultural and social history. Promoted to schools, it targeted Year 3 - Year 12, as well as the general public. The exhibition included a children’s trail, and a multimedia component.
+
+3D design:            Maria Cleary Design
+Graphic design:    MA Plus Design
+Multimedia:           Toadshow
+Construction:        Planet Productions 
+
+
+ Photos: Vincent Long 2009</description>
+    <item>
+      <link>http://www.ideamaria.com.au/Maria_Cleary_Design/Queensland_Firsts.html#0</link>
+      <guid isPermaLink="false">4dd71f72-5c6e-4d7a-8091-540b757ea3f6</guid>
+      <enclosure url="http://www.ideamaria.com.au/Maria_Cleary_Design/Queensland_Firsts_files/Media/5.-Fifty-Firsts-2009/5.-Fifty-Firsts-2009.jpg" length="110201" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/Maria_Cleary_Design/Queensland_Firsts_files/Media/5.-Fifty-Firsts-2009/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/Maria_Cleary_Design/Queensland_Firsts_files/Media/5.-Fifty-Firsts-2009/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style_2&quot;/&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <link>http://www.ideamaria.com.au/Maria_Cleary_Design/Queensland_Firsts.html#1</link>
+      <guid isPermaLink="false">ccf5265d-3653-49ea-b990-9d3dd2086dbc</guid>
+      <enclosure url="http://www.ideamaria.com.au/Maria_Cleary_Design/Queensland_Firsts_files/Media/5.-Fifty-Firsts-2009-b/5.-Fifty-Firsts-2009-b.jpg" length="91272" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/Maria_Cleary_Design/Queensland_Firsts_files/Media/5.-Fifty-Firsts-2009-b/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/Maria_Cleary_Design/Queensland_Firsts_files/Media/5.-Fifty-Firsts-2009-b/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style_2&quot;/&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <link>http://www.ideamaria.com.au/Maria_Cleary_Design/Queensland_Firsts.html#2</link>
+      <guid isPermaLink="false">f3b6505a-2cde-4250-b360-3fa7fe0c426b</guid>
+      <enclosure url="http://www.ideamaria.com.au/Maria_Cleary_Design/Queensland_Firsts_files/Media/QLD%20FIRSTS3_1/QLD%20FIRSTS3_1.jpg" length="41797" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/Maria_Cleary_Design/Queensland_Firsts_files/Media/QLD%20FIRSTS3_1/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/Maria_Cleary_Design/Queensland_Firsts_files/Media/QLD%20FIRSTS3_1/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style_2&quot;/&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

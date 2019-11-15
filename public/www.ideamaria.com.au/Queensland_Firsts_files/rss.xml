@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Queensland Firsts</title>
+    <link>http://www.ideamaria.com.au/www.ideamaria.com.au/Queensland_Firsts.html</link>
+    <description>This travelling exhibition was a Q150 project that aimed to raise the profile of the Queensland State Archives, transforming a high volume of historical content into a portable, approachable contemporary exhibition. Queensland Firsts appealed to visitors with an interest in political, cultural and social history. Promoted to schools, it targeted Year 3 - Year 12, as well as the general public. The exhibition included a children’s trail, and a multimedia component.
+
+Exhibition design: Maria Cleary
+Graphic design: MA Plus Design
+Multimedia: Toadshow
+Construction: Planet Productions 
+
+Photos, Vincent Long 2009</description>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/Queensland_Firsts.html#0</link>
+      <guid isPermaLink="false">b6ed2a44-e284-498d-b531-2e104eae4e97</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/Queensland_Firsts_files/Media/5.-Fifty-Firsts-2009/5.-Fifty-Firsts-2009.jpg" length="106811" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/Queensland_Firsts_files/Media/5.-Fifty-Firsts-2009/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/Queensland_Firsts_files/Media/5.-Fifty-Firsts-2009/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/Queensland_Firsts.html#1</link>
+      <guid isPermaLink="false">b9c00825-e7f0-4e0b-9eac-5a20db6368df</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/Queensland_Firsts_files/Media/5.-Fifty-Firsts-2009-b/5.-Fifty-Firsts-2009-b.jpg" length="87657" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/Queensland_Firsts_files/Media/5.-Fifty-Firsts-2009-b/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/Queensland_Firsts_files/Media/5.-Fifty-Firsts-2009-b/micro.jpg</iweb:micro>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Samford Village / Dayboro</title>
+    <link>http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails.html</link>
+    <description>13 permanent interpretive heritage site markers are situated in Samford Village, just north-west of Brisbane. They were commissioned  in 2009 by the Moreton Bay Regional Council, Samford Museum and Rotary Club of Samford Village. The scope of this project also included collaboration on the design of a brochure for visitors walking the trail.
+
+In 2012, The Dayboro Heritage Group, with Moreton Bay Regional Council, commissioned 19 trail markers. The design encompasses ideas of local mapping, rural machinery and weathered materials. 
+
+Design: Maria Cleary
+Graphic design: MA Plus Design
+Construction: Planet Productions and Allimages
+
+ Photos, Maria Cleary 2009, 2012</description>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails.html#0</link>
+      <guid isPermaLink="false">a6c5bdf1-602a-49e1-9e70-2433b3d5261f</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails_files/Media/100_3445/100_3445.jpg" length="112081" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails_files/Media/100_3445/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails_files/Media/100_3445/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails.html#1</link>
+      <guid isPermaLink="false">5795b6b0-b88a-4558-a8f1-3d851ff42c24</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails_files/Media/100_3455/100_3455.jpg" length="142716" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails_files/Media/100_3455/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails_files/Media/100_3455/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails.html#2</link>
+      <guid isPermaLink="false">33e3afce-9716-4631-9284-dc6273ae235a</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails_files/Media/100_3459/100_3459.jpg" length="140180" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails_files/Media/100_3459/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails_files/Media/100_3459/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails.html#3</link>
+      <guid isPermaLink="false">45a82b79-2dd0-4578-923b-a3c84c87b19f</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails_files/Media/IMG_0421/IMG_0421.jpg" length="88379" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails_files/Media/IMG_0421/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails_files/Media/IMG_0421/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails.html#4</link>
+      <guid isPermaLink="false">e1a46715-458d-416a-add1-9b3a4f5d8ee6</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails_files/Media/IMG_0246/IMG_0246.jpg" length="57206" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails_files/Media/IMG_0246/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails_files/Media/IMG_0246/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails.html#5</link>
+      <guid isPermaLink="false">abfd80d8-6436-4f8f-a1af-e3c379df6fc7</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails_files/Media/IMG_0643/IMG_0643.jpg" length="65002" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails_files/Media/IMG_0643/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/Heritage_Trails_files/Media/IMG_0643/micro.jpg</iweb:micro>
+    </item>
+  </channel>
+</rss>

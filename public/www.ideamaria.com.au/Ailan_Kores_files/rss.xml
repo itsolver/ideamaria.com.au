@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Queensland Music Festival - Ailan Kores</title>
+    <link>http://www.ideamaria.com.au/www.ideamaria.com.au/Ailan_Kores.html</link>
+    <description>Thursday Island was to host a spectacular QMF opening event featuring massed community choirs with members drawn from across the Torres Strait in performance with the Queensland Youth Orchestra. My task was to facilitate a vibrant, cohesive culturally appropriate look for the event by providing costume design and styling advice and a documented design framework for local manufacture of costumes.
+
+‘The orchestra loved their costumes! Many of them wore them from the moment we handed them out. I had a thought they might find them a bit old-fashioned but not at all. Alison’s dress was praised for its originality with its plain dress and floral frills. She was the choral director.  We had a great party and danced til 2.00am when they threw us out of the Thursday Island Bowls Club’ Erica Hart, Producer</description>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/Ailan_Kores.html#0</link>
+      <guid isPermaLink="false">54a1e077-f3ed-4a26-8c13-805a4a0a01d0</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/Ailan_Kores_files/Media/IMG_0065/IMG_0065.jpg" length="115991" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/Ailan_Kores_files/Media/IMG_0065/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/Ailan_Kores_files/Media/IMG_0065/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/Ailan_Kores.html#1</link>
+      <guid isPermaLink="false">46efedb7-34c5-475f-a0c7-5b8670ff2284</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/Ailan_Kores_files/Media/IMG_0069/IMG_0069.jpg" length="135514" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/Ailan_Kores_files/Media/IMG_0069/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/Ailan_Kores_files/Media/IMG_0069/micro.jpg</iweb:micro>
+    </item>
+  </channel>
+</rss>

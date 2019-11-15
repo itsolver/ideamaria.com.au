@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>KITE Blink and Plunge</title>
+    <link>http://www.ideamaria.com.au/www.ideamaria.com.au/KITE_Blink_Plunge.html</link>
+    <description>KITE program @ QPAC was an early childhood arts education initiative of Education Queensland in partnership with QPAC. KITE delivered relevant, contemporary arts education experiences for prep to year 3 students and their teachers across Queensland. In 2012, State Government funding cuts brought this program to a close. 
+
+Design: Maria Cleary
+Multimedia: Thom Browning
+Construction: Planet Productions, QPAC
+
+Photos, KITE 2011, Maria Cleary 2012</description>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/KITE_Blink_Plunge.html#0</link>
+      <guid isPermaLink="false">80e7dab5-bc7f-4844-8682-a9cd49aeee29</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/KITE_Blink_Plunge_files/Media/asp-52/asp-52.jpg" length="62007" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/KITE_Blink_Plunge_files/Media/asp-52/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/KITE_Blink_Plunge_files/Media/asp-52/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/KITE_Blink_Plunge.html#1</link>
+      <guid isPermaLink="false">d8593d7d-12ae-4bd6-b88c-fa96f6b2c571</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/KITE_Blink_Plunge_files/Media/IMG_0365/IMG_0365.jpg" length="64555" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/KITE_Blink_Plunge_files/Media/IMG_0365/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/KITE_Blink_Plunge_files/Media/IMG_0365/micro.jpg</iweb:micro>
+    </item>
+  </channel>
+</rss>

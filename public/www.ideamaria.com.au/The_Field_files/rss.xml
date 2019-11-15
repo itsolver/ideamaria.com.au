@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>The Field</title>
+    <link>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field.html</link>
+    <description>The Field explored issues and ideas surrounding sustainability and innovation in the local production, delivery and consumption of food and fibre.
+
+Design: Maria Cleary
+Graphic design: MA Plus Design
+Construction: Planet Productions
+
+Photos, Maria Cleary, Tony Powell 2006
+</description>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field.html#0</link>
+      <guid isPermaLink="false">96602da5-ac21-4844-af9a-9d0b73e9cac0</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field_files/Media/100_1634/100_1634.jpg" length="113276" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field_files/Media/100_1634/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field_files/Media/100_1634/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field.html#1</link>
+      <guid isPermaLink="false">c72e1bf2-b056-4411-a352-1bcdfd05cb2b</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field_files/Media/100_1646/100_1646.jpg" length="74710" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field_files/Media/100_1646/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field_files/Media/100_1646/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field.html#2</link>
+      <guid isPermaLink="false">c6124279-d819-4810-aacb-521dbf617b9f</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field_files/Media/100_1635/100_1635.jpg" length="98103" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field_files/Media/100_1635/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field_files/Media/100_1635/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field.html#3</link>
+      <guid isPermaLink="false">f12d65ae-09bb-406d-8f17-e18d965e232b</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field_files/Media/100_1658/100_1658.jpg" length="126484" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field_files/Media/100_1658/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field_files/Media/100_1658/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field.html#4</link>
+      <guid isPermaLink="false">e0245058-c251-49f6-a141-d492cd1327f6</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field_files/Media/Display_1/Display_1.jpg" length="41987" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field_files/Media/Display_1/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field_files/Media/Display_1/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field.html#5</link>
+      <guid isPermaLink="false">54058f13-6a3e-4144-8ed3-d90fae4c17fa</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field_files/Media/100_1656/100_1656.jpg" length="80819" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field_files/Media/100_1656/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/The_Field_files/Media/100_1656/micro.jpg</iweb:micro>
+    </item>
+  </channel>
+</rss>

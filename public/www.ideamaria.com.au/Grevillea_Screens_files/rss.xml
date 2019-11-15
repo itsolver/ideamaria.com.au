@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Grevillea Screens</title>
+    <link>http://www.ideamaria.com.au/www.ideamaria.com.au/Grevillea_Screens.html</link>
+    <description>As an ‘Art Built In’ project commissioned by the Moreton Bay Regional Council, the need to provide decorative screening which could be retrofitted to existing steel mesh panels and maintain at least 50% visual access was an important aspect of the project brief. 
+This series of laser cut, powder coated and vitreous enamelled steel screens, designed for the Northlakes Community Centre, provided a strong decorative element and connection with immediate landscaping. The Community Centre has recently been re-purposed as a youth centre, and the screens have been replaced to reflect the new role of the building. 
+
+Design: Maria Cleary
+Construction: Planet Productions
+
+ Photos,  Maria Cleary 2007
+</description>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/Grevillea_Screens.html#0</link>
+      <guid isPermaLink="false">0e513eae-5f0a-429c-8f7f-f69eb82b0179</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/Grevillea_Screens_files/Media/100_2010/100_2010.jpg" length="149126" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/Grevillea_Screens_files/Media/100_2010/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/Grevillea_Screens_files/Media/100_2010/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/Grevillea_Screens.html#1</link>
+      <guid isPermaLink="false">d43f9971-9128-4c18-883d-c1a4aee8f9a6</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/Grevillea_Screens_files/Media/100_2011/100_2011.jpg" length="99026" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/Grevillea_Screens_files/Media/100_2011/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/Grevillea_Screens_files/Media/100_2011/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.ideamaria.com.au/www.ideamaria.com.au/Grevillea_Screens.html#2</link>
+      <guid isPermaLink="false">d8ef4027-3414-45d9-a9c7-dde36b7adb81</guid>
+      <enclosure url="http://www.ideamaria.com.au/www.ideamaria.com.au/Grevillea_Screens_files/Media/100_2018/100_2018.jpg" length="171008" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.ideamaria.com.au/www.ideamaria.com.au/Grevillea_Screens_files/Media/100_2018/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.ideamaria.com.au/www.ideamaria.com.au/Grevillea_Screens_files/Media/100_2018/micro.jpg</iweb:micro>
+    </item>
+  </channel>
+</rss>
